@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ScreenZ (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ScreenZ (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
